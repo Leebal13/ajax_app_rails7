@@ -1,6 +1,4 @@
 import { Application } from "@hotwired/stimulus";
-import "controllers";
-import "memo";
 
 const application = Application.start();
 
